@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuentiContest.AnonymousPoll", "TuentiContest.AnonymousPoll\TuentiContest.AnonymousPoll.csproj", "{0CFF6D24-CC6F-4704-A22E-0BF5A8407C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuentiContest.AnonymousPoll.Tests", "TuentiContest.AnonymousPoll.Tests\TuentiContest.AnonymousPoll.Tests.csproj", "{B2E545FA-CE8E-4677-84CD-A17B8DB2F49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CFF6D24-CC6F-4704-A22E-0BF5A8407C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFF6D24-CC6F-4704-A22E-0BF5A8407C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFF6D24-CC6F-4704-A22E-0BF5A8407C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFF6D24-CC6F-4704-A22E-0BF5A8407C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E545FA-CE8E-4677-84CD-A17B8DB2F49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E545FA-CE8E-4677-84CD-A17B8DB2F49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E545FA-CE8E-4677-84CD-A17B8DB2F49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E545FA-CE8E-4677-84CD-A17B8DB2F49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
